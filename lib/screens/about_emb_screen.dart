@@ -40,7 +40,7 @@ class MyApp extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
                     const Text(
-                      'EMBS AUTh',
+                      'EMBs IEEE AUTh',
                       style: TextStyle(
                         fontSize: 30,
                         fontWeight: FontWeight.bold,
@@ -88,7 +88,7 @@ class MyApp extends StatelessWidget {
                 const Text('Nikolaos Trifon Papadopoulos'),
                 const Text('Despoina Nteli'),
                 const Text('Maria Nteli'),
-                const Text('Georgios Koulalios'),
+                const Text('Georgios Koutalios'),
                 const Text('Andreas Segani'),
                 const SizedBox(height: 20),
                 const Text(
